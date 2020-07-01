@@ -168,6 +168,7 @@ header .contenedor-texto .texto .profesion{
     font-weight: 700;
     color: #3895ea;
     margin-bottom: 10px;
+    text-decoration: none;
 }
 
 .main .trabajos .contenedor-trabajos .trabajo .descripcion .categoria{
